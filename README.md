@@ -1,2 +1,2 @@
-# ariel
-Parser of the Ariel platform
+# Ariel
+Parser of the [Ariel](http://ariel.unimi.it) platform of unimi
